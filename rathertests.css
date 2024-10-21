@@ -1,0 +1,45 @@
+
+.skibiditoilet{
+  font-size: 72px;
+}
+.amazon{
+  font-size: 30px;
+}
+.milospilo{
+  font-size: 25px;
+  color: rgb(0, 118, 0);
+  font-weight: bold;
+}
+.dildo{
+  font-size: 23;
+}
+.ilovekids{
+height: 45px;
+width: 100px;
+border-radius: 30px;
+border: none;
+background-color: rgb(255,216,20);
+transition: opacity .3s;
+cursor:pointer
+}
+.ilovekids:hover{
+opacity: .5;
+}
+.ilovekids:active{
+opacity: .3;
+}
+.hawktuah{
+border-radius: 30px;
+height:45px;
+width:100px;
+border: none;
+background-color: rgb(255, 164, 28);
+cursor: pointer;
+transition: opacity .3s;
+}
+.hawktuah:hover{
+opacity: 0.5;
+}
+.hawktuah:active{
+opacity: 0.3;
+}
